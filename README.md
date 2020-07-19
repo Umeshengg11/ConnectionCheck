@@ -1,2 +1,2 @@
 # ConnectionCheck
-Test File
+Test File for checking things.
